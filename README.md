@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Anne Shar
+I'm Anne Shar. 
 BCA student. Learning cybersecurity from the ground up: Linux, networking, web security. Writing about what I learn while I learn it.
 
 ## What I'm working on
@@ -26,12 +26,12 @@ BCA student. Learning cybersecurity from the ground up: Linux, networking, web s
 
 ## Writing
 
-I write technical posts where I break something, find out why, and explain the mechanism.
+I write technical posts where I break something, figure out why, and explain how it works.
 
-- [Why Linux overwrote my pen drive: udev, devtmpfs, and device files]([https://whythough.hashnode.dev/linux-device-management-a-beginner-who-broke-things-explains-it])
-- [Why systemd crashed my old laptop: stdin/stdout/stderr and journald]([https://whythough.hashnode.dev/my-laptop-crashed-and-taught-me-how-linux-talks-to-itself])
+- [Why Linux overwrote my pen drive: udev, devtmpfs, and device files](https://whythough.hashnode.dev/linux-device-management-a-beginner-who-broke-things-explains-it)
+- [Why systemd crashed my old laptop: stdin/stdout/stderr and journald](https://whythough.hashnode.dev/my-laptop-crashed-and-taught-me-how-linux-talks-to-itself)
 
-More on [Hashnode]([[link](https://hashnode.com/@anneshar)]) and [Medium]([https://medium.com/@anneshar6734]).
+More on [Hashnode](https://hashnode.com/@anneshar) and [Medium](https://medium.com/@anneshar6734).
 
 ## Stack
 
